@@ -1,0 +1,8 @@
+#!/bin/sh
+set -e
+chmod 544 /usr/bin/vub
+chmod 544 /usr/bin/vubw
+chmod 644 /etc/vub/vub.wav
+chmod 744 /usr/share/applications/vubw.desktop
+chmod 644 /usr/share/icons/hicolor/48x48/apps/vubw.png
+exit 0

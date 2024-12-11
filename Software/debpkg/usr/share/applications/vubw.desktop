@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=VU Breakout Demo
+Exec=/usr/bin/vubw
+Icon=/usr/share/icons/hicolor/48x48/apps/vubw.png
+Terminal=false
+Type=Application
+Categories=Game

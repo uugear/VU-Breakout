@@ -1,0 +1,8 @@
+Package: vub
+Version: 1.02
+Section: base
+Architecture: arm64
+Maintainer: support@uugear.com
+Installed-Size: 13800
+Depends: libportaudio2
+Description: Demo program for VU Breakout expansion board.
